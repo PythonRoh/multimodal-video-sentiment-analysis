@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# ML Models
+*.pth
+*.tar.gz
+
+# Media
+*.mp4
+*.wav
+
+# Uploads
+uploads/
+
+# Env
+.env
